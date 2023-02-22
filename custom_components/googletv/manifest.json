@@ -1,0 +1,14 @@
+{
+    "codeowners": ["@soldag"],
+    "config_flow": true,
+    "dependencies": ["network"],
+    "documentation": "https://github.com/soldag/hass-google-tv",
+    "domain": "googletv",
+    "integration_type": "device",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/soldag/hass-google-tv/issues",
+    "loggers": ["googletv"],
+    "name": "Google TV",
+    "requirements": ["googletv>=0.0.2"],
+    "version": "0.0.1"
+  }
