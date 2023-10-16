@@ -1,6 +1,6 @@
 {
     "codeowners": ["@soldag"],
-    "config_flow": true,
+    "config_flow": false,
     "dependencies": ["network"],
     "documentation": "https://github.com/soldag/hass-google-tv",
     "domain": "googletv",
